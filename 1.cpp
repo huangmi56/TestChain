@@ -2,7 +2,8 @@
 
 int main()
 {
-	int i;
+	int j;
+	int k
 	cin>>i;
 	cout<<i;
 	return 0;
