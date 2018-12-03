@@ -4,7 +4,7 @@ int main()
 {
 	int j;
 	int k
-	cin>>j;
+	cin>>k;
 	cout<<i;
 	return 0;
 }
