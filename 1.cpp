@@ -4,6 +4,7 @@ int main()
 {
 	int j;
 	int k
+	int kk;
 	cin>>i;
 	cout<<i;
 	cout <<j;
