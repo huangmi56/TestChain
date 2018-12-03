@@ -6,5 +6,6 @@ int main()
 	int k
 	cin>>k;
 	cout<<i;
+	cout <<j;
 	return 0;
 }
